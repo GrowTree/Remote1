@@ -1,0 +1,16 @@
+PODS:
+  - Remote1 (0.1.0)
+
+DEPENDENCIES:
+  - Remote1 (from `../`)
+
+EXTERNAL SOURCES:
+  Remote1:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Remote1: c47cfa6cbd78362d1f99ea99c2e6a8a21ddb0b97
+
+PODFILE CHECKSUM: 09fe75fc9ba5b2d03776a49f1bb94cee17210ede
+
+COCOAPODS: 1.5.3

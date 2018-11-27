@@ -1,0 +1,22 @@
+{
+  "name": "Remote1",
+  "version": "0.1.0",
+  "summary": "A short description of Remote1.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/GrowTree/Remote1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "GrowTree": "1547020236@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/GrowTree/Remote1.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Remote1/Classes/**/*"
+}
